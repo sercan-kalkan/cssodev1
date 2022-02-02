@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    background-color: #F6F7D7;
+}
+
+#navbar-div {
+    background-color: #3EC1D3;
+    
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 3px;   
+    text-shadow: 2px 2px 3px #FF9A00; 
+}
+
+#navbar ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#navbar ul a {
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+#resim {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tanitim  {
+    text-align: center;
+}
+
+.alt-baslik {
+    font-size: 25;
+    color: #FF165D;
+}
+
+#gitar-liste {
+    list-style-position: inside;
+    font-stretch: semi-expanded;
+}
+
+.hakkimizda {
+    text-align: center;
+}
+
+#location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2 {
+    text-align: center;
+    color: orange;
+}
+
+footer {
+    background-color: #FF9A00;
+    text-align: center;
+    height: 100px;
+    margin: 0;
+    
+}
